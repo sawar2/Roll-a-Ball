@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Roll a Ball",
+"dataUrl": ":Users:kinansawar:Documents:GitHub.data.unityweb",
+"asmCodeUrl": ":Users:kinansawar:Documents:GitHub.asm.code.unityweb",
+"asmMemoryUrl": ":Users:kinansawar:Documents:GitHub.asm.memory.unityweb",
+"asmFrameworkUrl": ":Users:kinansawar:Documents:GitHub.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
